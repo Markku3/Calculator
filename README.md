@@ -2,12 +2,8 @@
 This web app is a simple calculator for basic arithmetic operations. 
 Users can add, subtract, multiply, and divide. It features a clean, responsive design with intuitive buttons.
 
-<ul>
- Key Features; 
-</ul>
+   Key Features; 
  
-
-
 Usage:
 
 - AC (All Clear)
