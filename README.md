@@ -17,6 +17,6 @@ Usage:
 
 Visuals, etc:
 
-Responsive: Suitable for various devices
-Visual Feedback: Sleek design with shadow effects
-Error Handling: Graceful handling of basic errors
+- Responsive: Suitable for various devices
+- Visual Feedback: Sleek design with shadow effects
+- Error Handling: Graceful handling of basic errors
