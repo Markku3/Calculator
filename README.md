@@ -11,7 +11,7 @@ Usage:
 - , (Comma)
 - / (Division)
 - Numeric Buttons (0-9)
-- + (Addition), - (Subtraction), * (Multiplication)
+- Addition, Subtraction, Multiplication
 - = (Equal)
 
 
