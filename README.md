@@ -1,5 +1,5 @@
 # Calculator
-This web app is a simple calculator for basic arithmetic operations. 
+This web app is a simple calculator for basic arithmetic operations (HTML, CSS). 
 Users can add, subtract, multiply, and divide. It features a clean, responsive design with intuitive buttons.
 
    Key Features; 
